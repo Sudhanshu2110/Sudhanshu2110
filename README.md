@@ -1,11 +1,11 @@
 
 
-<h3 align="center">Hey 🙋‍♂️ I am Sarvesh I'm Full Stack Dev</h3>
+<h3 align="center">Hey 🙋‍♂️ I am Sudhanshu I'm Front End Developer</h3>
 
 
 
-- 🌱 I work as a Full Stack Developer.
-- 🔭 I'm currently Learning Typescript, Next JS, Docker, and AWS.
+- 🌱 I work as a Front End Developer.
+- 🔭 I'm currently Learning Typescript, Next JS and AWS.
 - 👯 I’m looking to collaborate on:
     Fullstack projects
 - 👇 Here are some of the projects I worked on while learning web development. Please check it out.
@@ -19,7 +19,7 @@
 
 
 
-- 💬 Ask me about **Full Satck Development**
+- 💬 Ask me about **Front End Development**
 JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.
 
 - 📫 How to reach me **sarveshgaynar@gmail.com**
