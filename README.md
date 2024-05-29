@@ -8,27 +8,20 @@
 - 🔭 I'm currently Learning Typescript, Next JS and AWS.
 - 👯 I’m looking to collaborate on:
     Fullstack projects
-- 👇 Here are some of the projects I worked on while learning web development. Please check it out.
 
- ##### React Projects
-- 👨‍💻 [E~Store App](https://estore-application.netlify.app/) || [Youtube](https://youtube-clone-sigma-five.vercel.app/) || [Red Bus Clone](https://redbus207.netlify.app/)
-- 👨‍💻 [BiteMates (food order)](https://bitemates-git-master-sarvesh207.vercel.app/) || [Shop-X](https://shop-ex-cmrg-git-master-sarvesh207.vercel.app/) ||  [DashBoard](https://chaabi-dashboard-git-master-sarvesh207.vercel.app/)
- ##### Plane HTML CSS Vanaila Javascript Projects 
-- 👨‍💻 [Restraunt Website](https://loquacious-boba-c7bf98.netlify.app/) || [Resume template](https://joyful-tiramisu-5c8edf.netlify.app/) 
-- 👨‍💻 [My Dictionary App](https://joyful-tiramisu-5c8edf.netlify.app/) || [CSS grid Gallery](https://jade-fox-09e824.netlify.app/)
 
 
 
 - 💬 Ask me about **Front End Development**
-JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.
+JavaScript, React, Node.js, and any general software development questions.
 
-- 📫 How to reach me **sarveshgaynar@gmail.com**
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvesh207&label=Profile%20views&color=0e75b6&style=flat" alt="sarvesh207" /> </p>
+- 📫 How to reach me **tripathi21.sudhanshu@gmail.com
+- **
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu2110&label=Profile%20views&color=0e75b6&style=flat" alt="sarvesh207" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sarvesh-gaynar-04784b234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvesh gaynar" height="30" width="40" /></a>
-<a href="https://instagram.com/Sarvesh207_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarvesh207_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sudhanshu-tripathi-030550234/?trk=public-profile-join-page" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvesh gaynar" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
@@ -36,9 +29,9 @@ JavaScript, React, Nextjs, Node.js, AWS, and any general software development qu
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sarvesh207&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sarvesh207&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh207&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Sudhanshu2110&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshu2110&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu2110&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvesh207&show_icons=true&locale=en&layout=compact" alt="sarvesh207" /></p>
 
